@@ -1,0 +1,2 @@
+concurrent-log-handler>=0.9.20  
+colorama>=0.4.6
